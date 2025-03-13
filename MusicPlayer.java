@@ -10,7 +10,7 @@ import javax.sound.sampled.Clip;
 import javax.sound.sampled.LineUnavailableException;
 import javax.sound.sampled.UnsupportedAudioFileException;
 
-public class MusicPLayer {
+public class MusicPlayer {
 
     public static void main(String[] args) {
         String filePath = "C:\\workspace\\java\\Jungle Trip - Quincas Moreira.wav";
