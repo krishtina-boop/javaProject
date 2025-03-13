@@ -113,6 +113,9 @@ public class MusicPlayer {
                     System.out.println("Something went wrong");
                 } finally {
                     System.out.println("did you enjoyed?");
+                    System.out.println("Playlist includes: ");
+                    System.out.println("1. Jungle Trip");
+                    System.out.println("2. Glaze My Ego");
 
                 }
                 break;
